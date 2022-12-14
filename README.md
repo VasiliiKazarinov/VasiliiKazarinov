@@ -13,3 +13,5 @@
 ### Follow Me
 [![Telegram](https://camo.githubusercontent.com/73f5ca59a59564ad5bb222d7f7e29959c4284572497bf1ceb60fcf5b7b0a30aa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d333161356462)](https://t.me/VasiliiKazarinov)
 [![LinkedIn](https://camo.githubusercontent.com/2c85d4c4312f3fb155768b8f9ebbe7c759f71f4eb0e281da9e656f32415dbe91/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d303037336231)](https://www.linkedin.com/in/vasilii-kazarinov-292188258)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VasiliiKazarinov&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
